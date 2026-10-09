@@ -1,4 +1,4 @@
-# Daily Pandas Practice with ChatGPT, Claude, Meta AI (WhatsApp) 30th October 2026
+# Daily Pandas Practice with ChatGPT, Claude, Meta AI (WhatsApp) 30th September 2026
 <b>Task 1 - Create your working copy<b><br>
 Do not <b>modify</b> ```df```<br>
 ```
